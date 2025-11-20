@@ -1,0 +1,8 @@
+/* style.css */
+:root{--primary:#0d6efd}
+body{font-family:'Segoe UI',Arial,Helvetica,sans-serif;background:#f8f9fa;color:#222}
+.hero{background:linear-gradient(90deg, rgba(13,110,253,0.06), rgba(13,110,253,0.02));}
+.card-img-top{height:300px;object-fit:cover}
+footer small{opacity:0.95}
+.gallery-item{cursor:pointer;transition:transform .25s ease}
+.gallery-item:hover{transform:scale(1.03)}
